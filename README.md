@@ -1,0 +1,1 @@
+Day 2 of Codeschool and I learned how to create a file and push into GIThub
